@@ -28,4 +28,5 @@ Fork this repostiry as a part of our Hacktoberfest efforts to learn Git and Gith
 - [Divyansh Darshan](https://github.com/DivyanshDarshan)
 - [Peachy Butt](https://github.com/cjjp-sushi)
 - [Max Johnson](https://github.com/Chiefautoparts)
+- [Ajay Kumar](https://github.com/Ajay2000)
 - [Pete Madis](https://github.com/petemadis)
